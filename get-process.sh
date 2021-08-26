@@ -1,0 +1,1 @@
+echo `ps -ef | grep java`
